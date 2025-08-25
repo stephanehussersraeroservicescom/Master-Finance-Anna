@@ -74,9 +74,9 @@ $$
   - 50% de chance → 200 €  
   - 50% de chance → 50 €  
 - Utilité espérée :  
-  $$
+  $
   0.5\,U(200) + 0.5\,U(50)
-  $$  
+  $  
 
 Comparons avec un gain certain de 100 € :  
 - Si $U(100) > 0.5\,U(200) + 0.5\,U(50)$, l’investisseur préfère la certitude → il est **averse au risque**.  

@@ -1,7 +1,7 @@
 # Partie I — Expected Utility Theory: Complete Guide (Enhanced Multi-Level)
 
 **Navigation rapide :**  
-[Annexe A (detailed proofs)](annexeA_enhanced.md) • [Annexe B (mathematical foundations)](annexeB_enhanced.md)
+[Annexe A (detailed proofs)](annexeA_chapter1.md) • [Annexe B (mathematical foundations)](annexeB_chapter1.md)
 
 ---
 
@@ -96,8 +96,8 @@ Where $\gamma$ is the **risk aversion parameter**:
 
 **Why CRRA is Popular:** The risk aversion doesn't change as wealth changes, making it mathematically convenient for modeling.
 
-➡ **For detailed mathematical proofs:** See [Annexe A §A.1](annexeA_enhanced.md#A1)  
-➡ **For concavity review:** See [Annexe B §B.6](annexeB_enhanced.md#B6)
+➡ **For detailed mathematical proofs:** See [Annexe A §A.1](annexeA_chapter1.md#A1)  
+➡ **For concavity review:** See [Annexe B §B.6](annexeB_chapter1.md#B6)
 
 ---
 
@@ -140,8 +140,8 @@ $$= 0.5 \times 7.090 + 0.5 \times 6.685 = 6.888$$
 
 Both options have the same expected monetary return, but **expected utility** accounts for the investor's risk preferences, showing why someone might prefer certainty.
 
-➡ **For integral construction:** See [Annexe A §A.2](annexeA_enhanced.md#A2)  
-➡ **For probability review:** See [Annexe B §B.1](annexeB_enhanced.md#B1)
+➡ **For integral construction:** See [Annexe A §A.2](annexeA_chapter1.md#A2)  
+➡ **For probability review:** See [Annexe B §B.1](annexeB_chapter1.md#B1)
 
 ---
 
@@ -185,8 +185,8 @@ $$\frac{\partial}{\partial \mu} \mathbb{E}[U(R)] = \int_{-\infty}^{\infty} U'(\m
 
 This explains why higher expected returns are always good, all else equal.
 
-➡ **For complete proof:** See [Annexe A §A.3](annexeA_enhanced.md#A3)  
-➡ **For chain rule review:** See [Annexe B §B.4](annexeB_enhanced.md#B4)
+➡ **For complete proof:** See [Annexe A §A.3](annexeA_chapter1.md#A3)  
+➡ **For chain rule review:** See [Annexe B §B.4](annexeB_chapter1.md#B4)
 
 ---
 
@@ -237,8 +237,8 @@ $$\frac{\partial}{\partial \sigma} \mathbb{E}[U(R)] = \int_{-\infty}^{\infty} U'
 2. **Diversification Value:** Reducing risk without sacrificing return increases utility  
 3. **Insurance Demand:** People pay to reduce risk even when it lowers expected wealth
 
-➡ **For detailed proof:** See [Annexe A §A.4](annexeA_enhanced.md#A4)  
-➡ **For variance concepts:** See [Annexe B §B.2](annexeB_enhanced.md#B2)
+➡ **For detailed proof:** See [Annexe A §A.4](annexeA_chapter1.md#A4)  
+➡ **For variance concepts:** See [Annexe B §B.2](annexeB_chapter1.md#B2)
 
 ---
 
@@ -308,9 +308,9 @@ An asset paying $1,000 in recession is worth $P_0 = 1.9 \times 1,000 = 1,900$ to
 
 **Why so valuable?** That $1,000 provides enormous marginal utility when consumption is low.
 
-➡ **Detailed SDF theory:** [Annexe A §A.5](annexeA_enhanced.md#A5)  
-➡ **Complete CAPM derivation:** [Annexe A §A.6](annexeA_enhanced.md#A6)  
-➡ **Covariance review:** [Annexe B §B.7](annexeB_enhanced.md#B7)
+➡ **Detailed SDF theory:** [Annexe A §A.5](annexeA_chapter1.md#A5)  
+➡ **Complete CAPM derivation:** [Annexe A §A.6](annexeA_chapter1.md#A6)  
+➡ **Covariance review:** [Annexe B §B.7](annexeB_chapter1.md#B7)
 
 ---
 

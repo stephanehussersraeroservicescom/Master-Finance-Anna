@@ -49,7 +49,7 @@ The concave utility function lies below its tangent lines. When you "average" al
 
 **Economic insight:** The investor would pay up to $\sqrt{250}^2 - \sqrt{15}^2 = 250 - 225 = 25$ to avoid this risk.
 
-See also: [Mathematical foundations - concavity](annexeB_enhanced.md#B6)
+See also: [Mathematical foundations - concavity](annexeB_chapter1.md#B6)
 
 ---
 
@@ -110,7 +110,7 @@ $$\mathbb{E}[U(W_T)] = \int_{-\infty}^{\infty} \ln(108 + 20z) \phi(z) dz$$
 
 This integral can be evaluated numerically or approximated using Taylor expansion methods.
 
-See also: [Probability foundations](annexeB_enhanced.md#B1), [Normal distribution](annexeB_enhanced.md#B3)
+See also: [Probability foundations](annexeB_chapter1.md#B1), [Normal distribution](annexeB_chapter1.md#B3)
 
 ---
 
@@ -176,7 +176,7 @@ This result requires:
 2. **Non-satiation:** $U'(x) > 0$  
 3. **Regularity conditions:** Allow differentiation under the integral sign
 
-See also: [Chain rule](annexeB_enhanced.md#B4), [Integration techniques](annexeB_enhanced.md#B5)
+See also: [Chain rule](annexeB_chapter1.md#B4), [Integration techniques](annexeB_chapter1.md#B5)
 
 ---
 
@@ -268,7 +268,7 @@ Where:
 - $r_f$ = risk-free rate
 - The premium increases with both variance and risk aversion
 
-See also: [Variance concepts](annexeB_enhanced.md#B2), [Taylor expansion](annexeB_enhanced.md#B5)
+See also: [Variance concepts](annexeB_chapter1.md#B2), [Taylor expansion](annexeB_chapter1.md#B5)
 
 ---
 
@@ -379,7 +379,7 @@ $$P_0 = 0.6 \times 0.792 \times 100 + 0.4 \times 1.188 \times 0 = 47.52$$
 
 This asset has expected payoff $0.6 \times 100 = 60$ but trades at only $47.52$ due to its correlation with good times.
 
-See also: [Optimization methods](annexeB_enhanced.md#B4), [Covariance](annexeB_enhanced.md#B7)
+See also: [Optimization methods](annexeB_chapter1.md#B4), [Covariance](annexeB_chapter1.md#B7)
 
 ---
 
@@ -472,4 +472,4 @@ Where $\lambda_k$ are risk premiums for different factors.
 - Consumption CAPM  
 - Intertemporal CAPM
 
-See also: [Covariance properties](annexeB_enhanced.md#B7), [Portfolio theory foundations](annexeB_enhanced.md#B1)
+See also: [Covariance properties](annexeB_chapter1.md#B7), [Portfolio theory foundations](annexeB_chapter1.md#B1)

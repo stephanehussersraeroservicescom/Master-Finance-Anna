@@ -2,7 +2,7 @@
 *[Covers Slides 11-12: Decision Theory and Expected Value]*
 
 **Navigation:**  
-[← Prologue](1-prologue_expected_utility.md) • [Chapter 2 →](chapter2_enhanced.md) • [Annexe A (proofs)](annexeA_enhanced.md) • [Annexe B (math foundations)](annexeB_enhanced.md)
+[← Prologue](1-prologue_expected_utility.md) • [Chapter 2 →](chapter2_enhanced.md) • [Annexe A (proofs)](annexeA_chapter1.md) • [Annexe B (math foundations)](annexeB_chapter1.md)
 
 ---
 
@@ -119,8 +119,8 @@ $$\int_{-\infty}^{\infty} f(x)dx = 1 \quad \text{(total probability equals certa
 - **Interest Rate Changes:** May follow more complex continuous distributions
 - **Currency Fluctuations:** Continuous random variables with fat tails
 
-➡ **For rigorous probability theory foundations:** [Annexe B §B.1 (Probability Theory)](annexeB_enhanced.md#B1)
-➡ **For integration techniques:** [Annexe B §B.5 (Integration Methods)](annexeB_enhanced.md#B5)
+➡ **For rigorous probability theory foundations:** [Annexe B §B.1 (Probability Theory)](annexeB_chapter1.md#B1)
+➡ **For integration techniques:** [Annexe B §B.5 (Integration Methods)](annexeB_chapter1.md#B5)
 
 ---
 
@@ -187,7 +187,7 @@ $$E[X] = \int_{-\infty}^{\infty} x f(x) dx$$
 
 **4. Cannot Handle Diminishing Satisfaction:** The assumption that each additional dollar provides the same satisfaction regardless of current wealth level contradicts both intuition and empirical evidence.
 
-➡ **For detailed mathematical analysis of expected value limitations:** [Annexe A §A.1 (Expected Value Critique)](annexeA_enhanced.md#A1)
+➡ **For detailed mathematical analysis of expected value limitations:** [Annexe A §A.1 (Expected Value Critique)](annexeA_chapter1.md#A1)
 
 ---
 
@@ -236,8 +236,8 @@ This framework—Expected Utility Theory—provides the missing link between hum
 - Chapters 5-6 analyze specific utility functions used in practice
 - Chapters 7-9 extend to advanced applications and graphical analysis
 
-➡ **For probability theory foundations needed for utility analysis:** [Annexe B §B.1 (Advanced Probability)](annexeB_enhanced.md#B1)
-➡ **For integration techniques used throughout the course:** [Annexe B §B.5 (Integration Methods)](annexeB_enhanced.md#B5)
+➡ **For probability theory foundations needed for utility analysis:** [Annexe B §B.1 (Advanced Probability)](annexeB_chapter1.md#B1)
+➡ **For integration techniques used throughout the course:** [Annexe B §B.5 (Integration Methods)](annexeB_chapter1.md#B5)
 
 ---
 

@@ -3,7 +3,7 @@
 This annex provides rigorous mathematical demonstrations for all results introduced in the main chapters. Each proof includes complete derivations, technical conditions, and connections to economic interpretations.
 
 **Navigation:**  
-[← Chapter 1](chapter1_enhanced.md) • [Main Course](partie1_enhanced.md) • [Annexe B (foundations) →](annexeB_enhanced.md)
+[← Chapter 1](chapter1_enhanced.md) • [Main Course](partie1_enhanced.md) • [Annexe B (foundations) →](annexeB_chapter1.md)
 
 ---
 
@@ -68,7 +68,7 @@ The integral $\int_{-\infty}^{\infty} |x|f(x)dx$ diverges, so the expected value
 
 **Economic Interpretation:** Even mathematically well-defined probability distributions may not have expected values, further limiting the expected value framework.
 
-➡ **Mathematical foundations:** See [Annexe B §B.1 (Measure Theory)](annexeB_enhanced.md#B1) for rigorous integration theory
+➡ **Mathematical foundations:** See [Annexe B §B.1 (Measure Theory)](annexeB_chapter1.md#B1) for rigorous integration theory
 
 ---
 
@@ -151,7 +151,7 @@ $$E[U(x_0 + \tilde{\varepsilon})] \approx U(x_0) + \frac{1}{2}U''(x_0)E[\tilde{\
 
 This means the decision-maker prefers the gamble to certainty, contradicting risk aversion.
 
-➡ **For Taylor series and approximation theory:** See [Annexe B §B.5 (Taylor Expansions)](annexeB_enhanced.md#B5)
+➡ **For Taylor series and approximation theory:** See [Annexe B §B.5 (Taylor Expansions)](annexeB_chapter1.md#B5)
 
 ---
 
@@ -234,7 +234,7 @@ So A demands higher compensation for risk.
 If A is more risk-averse, then for any small fair gamble, $\pi_a^A \geq \pi_a^B$.
 Since $\pi_a \approx \frac{1}{2}\sigma^2 R_a(W)$, this implies $R_a^A(W) \geq R_a^B(W)$.
 
-➡ **For rigorous treatment of approximation errors:** See [Annexe B §B.5 (Approximation Theory)](annexeB_enhanced.md#B5)
+➡ **For rigorous treatment of approximation errors:** See [Annexe B §B.5 (Approximation Theory)](annexeB_chapter1.md#B5)
 
 ---
 
@@ -303,7 +303,7 @@ $$\frac{dR_a}{dW} = \frac{b^2}{(1-bW)^2} > 0$$
 2. **IARA Property:** Contradicts empirical evidence about wealth effects on risk aversion
 3. **Unbounded Risk Aversion:** $R_a(W) \to \infty$ as $W \to 1/b$
 
-➡ **For advanced function analysis techniques:** See [Annexe B §B.6 (Function Properties)](annexeB_enhanced.md#B6)
+➡ **For advanced function analysis techniques:** See [Annexe B §B.6 (Function Properties)](annexeB_chapter1.md#B6)
 
 ---
 
@@ -377,7 +377,7 @@ $$\frac{\partial}{\partial \sigma} E[U(\tilde{R})] = \int_{0}^{\infty} [U'(\mu +
 
 **Step 5:** Since $z \phi(z) > 0$ for $z > 0$, the integrand is negative, making the entire integral negative.
 
-➡ **For rigorous integration theory:** See [Annexe B §B.5 (Measure Theory)](annexeB_enhanced.md#B5)
+➡ **For rigorous integration theory:** See [Annexe B §B.5 (Measure Theory)](annexeB_chapter1.md#B5)
 
 ---
 
@@ -394,4 +394,4 @@ Annexe A provides the mathematical foundation underlying Expected Utility Theory
 Each proof maintains mathematical rigor while connecting to economic interpretations developed in the main chapters.
 
 **Navigation:**  
-[← Return to Main Course](partie1_enhanced.md) • [Mathematical Foundations →](annexeB_enhanced.md)
+[← Return to Main Course](partie1_enhanced.md) • [Mathematical Foundations →](annexeB_chapter1.md)
